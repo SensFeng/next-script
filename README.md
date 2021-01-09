@@ -1,5 +1,9 @@
 # next-script
 
-npm install
+```javaScript
+  npm install
+```
 
-node ./src/indexjs
+```javaScript
+  npm start
+```

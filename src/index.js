@@ -15,7 +15,6 @@ class Reptile {
     let data = this.parserHtml(result.data)
     // 生成execl文件
     this.getExecl(data);
-    console.log('data: ', data);
   }
   parserHtml(html) {
     let $ = cheerio.load(html);
