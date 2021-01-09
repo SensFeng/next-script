@@ -1,0 +1,29 @@
+{
+  "name": "next-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SensFeng/next-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SensFeng/next-script/issues"
+  },
+  "homepage": "https://github.com/SensFeng/next-script#readme",
+  "dependencies": {
+    "@nestjs/schedule": "^0.4.1",
+    "@types/cron": "^1.7.2",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "node-xlsx": "^0.15.0",
+    "shelljs": "^0.8.4"
+  }
+}
